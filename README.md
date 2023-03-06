@@ -34,7 +34,7 @@ I'm a full-stack trainee developer and coding enjoyer learning my version of the
 
 #
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1tti/v1tti/output/github-contribution-grid-snake-dark.svg%22%3E
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1tti/v1tti/output/github-contribution-grid-snake.svg%22%3E
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/v1tti/v1tti/output/github-contribution-grid-snake.svg%22%3E
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1tti/v1tti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1tti/v1tti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/v1tti/v1tti/output/github-contribution-grid-snake.svg">
 </picture>
