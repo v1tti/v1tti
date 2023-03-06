@@ -32,7 +32,12 @@ I'm a full-stack trainee developer and coding enjoyer learning my version of the
     I started my coding journey as an automation engineering student, where i learned how few coding automation engineerings actually learn. After falling in love with the small amount of programming classes that I had, decided to keep on learning through online courses, and lots of googling.
     After searching for new content all over the internet I was blessed enough to find a trainee program at CWI Software, where my coding journey trully took a turn for the best. There I was able to lear full-stack developing using spring and react to develop a new project every day, sometimes by myself and sometimes with a group of other trainees, who i have the utmost respect for and thank for having the opportunity to work with.
 
-#
+##
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=v1tti&show_icons=true&theme=gotham" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1tti/v1tti/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1tti/v1tti/output/github-contribution-grid-snake.svg">
